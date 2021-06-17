@@ -1,0 +1,27 @@
+{
+  "name": "rescript-dayjs",
+  "version": "1.0.0-alpha.0",
+  "description": "ReScript bindings to Day.js library.",
+  "repository": "git@github.com:thomaszdxsn/rescript-dayjs.git",
+  "author": "thomaszdxsn <thomaszdxsn@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rescript",
+    "start": "rescript build -with-deps -w",
+    "clean": "rescript clean"
+  },
+  "keywords": [
+    "dayjs",
+    "immutable",
+    "date",
+    "time",
+    "ReScript"
+  ],
+  "devDependencies": {
+    "dayjs": "^1.10.5",
+    "rescript": "^9.1.4"
+  },
+  "peerDependencies": {
+    "dayjs": "^1.10.5"
+  }
+}
