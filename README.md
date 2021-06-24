@@ -1,1 +1,1 @@
-# rescript-dayjs
+# rescript-nanoid

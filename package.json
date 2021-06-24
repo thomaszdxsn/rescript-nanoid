@@ -1,8 +1,8 @@
 {
-  "name": "rescript-dayjs",
+  "name": "rescript-nanoid",
   "version": "1.0.0-alpha.0",
-  "description": "ReScript bindings to Day.js library.",
-  "repository": "git@github.com:thomaszdxsn/rescript-dayjs.git",
+  "description": "ReScript bindings to Nano ID library.",
+  "repository": "git@github.com:thomaszdxsn/rescript-nanoid.git",
   "author": "thomaszdxsn <thomaszdxsn@icloud.com>",
   "license": "MIT",
   "scripts": {
@@ -18,10 +18,10 @@
     "ReScript"
   ],
   "devDependencies": {
-    "dayjs": "^1.10.5",
+    "nanoid": "^3.1.23",
     "rescript": "^9.1.4"
   },
   "peerDependencies": {
-    "dayjs": "^1.10.5"
+    "nanoid": "^3.1.23"
   }
 }
